@@ -1,0 +1,12 @@
+:root{
+  --primary:blue;
+
+  --secondary:red;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+*{
+  font-family: 'Playfair Display', serif !important;
+  font-size: 16px;
+}
